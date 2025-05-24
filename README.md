@@ -93,7 +93,7 @@ interests: ["Music Creation", "Mobile Development", "Gaming / retrogaming"]
   <img src="https://img.shields.io/badge/Linux_Foundation_Certified_System_Administrator-003366?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="LFCS"/>
 </div>
 
-## 💼 Recent Projects
+## 💼 My experience
 
 ### 🌍 **Travel Platform Infrastructure** @ Xebia (Current)
 - Maintaining and developing unified platform for a well-known travel company from Netherlands
