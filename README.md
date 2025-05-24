@@ -129,6 +129,14 @@ interests: ["Music Creation", "Mobile Development", "Gaming / retrogaming"]
   - **Tech Stack:** Azure DevOps, DSC, Windows Server, IIS, .NET, Azure Functions
 - **StreetManager UK Gov:** [manage-roadworks.service.gov.uk](https://www.manage-roadworks.service.gov.uk)
   - **Tech Stack:** AWS, Terraform, CircleCI, GitHub, Kubernetes (KOPS), Docker
+ 
+### 🖥️ **Infrastructure Engineer** @ Kainos (01/2015 - 05/2017)
+- Service desk and Windows/Linux/macOS administration
+- Security hardening of Linux and Windows environments
+- Led Mac management centralization project
+- Maintained macOS build server for streamlined onboarding
+- Wrote a small tool in C to interface with Spiceworks and add unsupported Macs to it
+- **Tech Stack:** Hyper-V, VMWare ESX, VirtualBox, various scripting languages
   
 ## 🎯 Current Focus
 
