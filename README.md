@@ -142,7 +142,7 @@ interests: ["Music Production", "Swift Development", "Gaming / retrogaming"]
 
 - 🔨 Building infrastructure with **Microsoft Azure** and **ARM Templates**
 - 🚀 Implementing **GitHub Actions** workflows for enterprise-scale deployments
-- 📱 Developing iOS applications with **Swift** in my spare time
+- 📱 Developing applications with **Swift** in my spare time
 - 🤖 Exploring **AI technologies** and their applications in DevOps
 - 🎓 Continuously learning and staying updated with the latest DevOps trends
 
