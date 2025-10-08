@@ -38,6 +38,7 @@ current_focus:
   - AI Technologies
 interests: ["Music Production", "Swift Development", "Gaming / retrogaming"]
 ```
+Proud creator of [Proxly](https://proxly.chillaid.art) - an beautiful, intelligent browser chooser app for macOS
 
 ## 💻 Tech Stack & Tools
 
