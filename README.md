@@ -21,14 +21,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate and driven **Senior DevOps Engineer** currently working at **Xebia Software Sp. z o.o.** for **Sunweb** in Poland. With over 10 years of experience in the field, I specialize in building and maintaining scalable, reliable infrastructure while automating everything possible.
+I'm a passionate and driven **Senior DevOps Engineer** currently hired at **Xebia Software Sp. z o.o.** for **Boston Consulting Group** in Poland. With over 10 years of experience in the field, I specialize in building and maintaining scalable, reliable infrastructure while automating everything possible.
 
 ```yaml
 name: Paweł
 role: Senior DevOps Engineer
 location: Gdańsk, Poland
 company: Xebia Software Sp. z o.o.
-client: Sunweb Group
+client: BCG
 experience: 10+ years
 languages: [Polish (Native), English (C1)]
 current_focus: 
