@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and driven **Senior DevOps Engineer** currently hired at **Xebia Software Sp. z o.o.** for **Boston Consulting Group** in Poland. With over 10 years of experience in the field, I specialize in building and maintaining scalable, reliable infrastructure while automating everything possible.
+I'm a passionate and driven **Senior DevOps Engineer** from Poland currently hired at **Xebia Software Sp. z o.o.** for **Boston Consulting Group**. With over 10 years of experience in the field, I specialize in building and maintaining scalable, reliable infrastructure while automating everything possible.
 
 ```yaml
 name: Paweł
