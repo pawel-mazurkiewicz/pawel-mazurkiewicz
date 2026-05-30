@@ -13,7 +13,7 @@
 
 ## About Me
 
-Senior DevOps Engineer based in Gdańsk, Poland — currently at **Xebia Software** working for **Boston Consulting Group**. 10+ years building cloud infrastructure, automating deployments, and keeping things running at scale.
+Senior DevOps Engineer based in Gdańsk, Poland — currently at **Xebia Software** working for **Boston Consulting Group**. 10+ years building cloud infrastructure, automating deployments, and keeping things running at scale. Now deeply invested in the new frontiers of AI/ML technologies and their practical applications both with cloud and local providers.
 
 ```yaml
 name: Paweł
@@ -30,7 +30,9 @@ interests: ["Music Production", "Software development", "Gaming / retrogaming"]
 ```
 
 Maker of [Proxly](https://proxly.chillaid.art) — an intelligent browser chooser for macOS.
+
 Maker of [Skillworks](https://github.com/pawel-mazurkiewicz/skillworks) - a project aware skills workspace for agents
+
 A dude that ported [Pixal3D](https://github.com/pawel-mazurkiewicz/Pixal3D-mac) to Apple Silicon.
 
 Come visit my [blog](https://blog.chillaid.art).
