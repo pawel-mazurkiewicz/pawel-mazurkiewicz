@@ -23,14 +23,17 @@ company: Xebia Software Sp. z o.o.
 client: BCG
 languages: [Polish (Native), English (C1)]
 current_focus:
-  - Microsoft Azure & ARM Templates
-  - GitHub Actions & CI/CD
-  - Swift development
+  - Software development
   - AI in DevOps
-interests: ["Music Production", "Swift Development", "Gaming / retrogaming"]
+  - Frontier open weights models on Apple Silicon
+interests: ["Music Production", "Software development", "Gaming / retrogaming"]
 ```
 
 Maker of [Proxly](https://proxly.chillaid.art) — an intelligent browser chooser for macOS.
+Maker of [Skillworks](https://github.com/pawel-mazurkiewicz/skillworks) - a project aware skills workspace for agents
+A dude that ported [Pixal3D](https://github.com/pawel-mazurkiewicz/Pixal3D-mac) to Apple Silicon.
+
+Come visit my [blog](https://blog.chillaid.art).
 
 ## Tech Stack
 
