@@ -37,6 +37,8 @@ A dude that ported [Pixal3D](https://github.com/pawel-mazurkiewicz/Pixal3D-mac) 
 
 Come visit my [blog](https://blog.chillaid.art).
 
+![3d-profile-contrib](profile-3d-contrib/profile-night-rainbow.svg)
+
 ## Tech Stack
 
 ### Cloud
